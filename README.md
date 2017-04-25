@@ -1,4 +1,4 @@
-# Shields Bade Examples
+# Shields Badge Examples
 
 ![](https://img.shields.io/badge/Node.js-6.9-7fbd42.svg?style=plastic)
 ![](https://img.shields.io/badge/Python-3.4-3572A5.svg?style=plastic)
